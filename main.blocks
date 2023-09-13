@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="U1uzbAVX%Wf`42nrwAXX" x="20" y="20"></block><block type="device_forever" id="}8lKxDfTyQB7SUXB#_xN" x="225" y="20"></block><block type="device_gesture_event" id="]IzRcc07ktDIq^|DdQd?" x="700" y="169"><field name="NAME">Gesture.Shake</field></block><block type="device_show_leds" id="Y$ZXmaF|xqEQ1NMqY=6s" disabled="true" x="22" y="212"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field></block><block type="device_show_leds" id="D}aKm!3lLtBBI3|Ba+D?" disabled="true" x="452" y="212"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field></block><block type="device_show_leds" id="PeTv7x^teNfimW2qBrY*" disabled="true" x="228" y="228"><field name="LEDS">`
+        # # . . # 
+        # # . # . 
+        . . # . . 
+        # # . # . 
+        # # . . #
+        `</field></block><block type="device_random" id="OiaSzL_HxXU77R{?Sj`Y" disabled="true" x="675" y="348"><value name="min"><shadow type="math_number" id="O.ivn}o]Q^a%wjCT`(kL" disabled="true"><field name="NUM">0</field></shadow></value><value name="limit"><shadow type="math_number" id="+SeH)QY4oD#8LGjo/xN/" disabled="true"><field name="NUM">10</field></shadow></value></block></xml>
